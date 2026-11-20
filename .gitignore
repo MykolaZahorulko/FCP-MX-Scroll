@@ -1,0 +1,5 @@
+build/
+dmg_root/
+FCP-MX-Scroll-arm64
+FCP-MX-Scroll-x86_64
+.DS_Store
